@@ -1,0 +1,25 @@
+p{
+    color:orange
+}
+*{
+    background-color: black;
+    color:white
+}
+.name{
+    color:green
+}
+div{
+    background-color: brown;
+    height:20px;
+}
+#demo:hover{
+    color:pink;
+}
+#demo{
+    color: yellow;
+}
+p::first-letter{
+    font-size: 50px;
+    color:whitesmoke
+}
+
